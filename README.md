@@ -17,6 +17,12 @@ Escribir instructivo acá
 
 ## Cómo correr la aplicación
 
+### App Terminal
 ```
-python ./src/app.py
+python ./src/app-terminal.py
+```
+
+### App Web
+```
+
 ```
