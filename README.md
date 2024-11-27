@@ -14,3 +14,9 @@ pip install -r requirements.txt
 ## Instalación del proyecto usando pyenv
 
 Escribir instructivo acá
+
+## Cómo correr la aplicación
+
+```
+python ./src/app.py
+```
