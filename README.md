@@ -19,10 +19,10 @@ Escribir instructivo acá
 
 ### App Terminal
 ```
-python ./src/app-terminal.py
+python ./streamlit-app/src/app-terminal.py
 ```
 
 ### App Web
 ```
-
+streamlit run ./streamlit-app/app-web-py
 ```
