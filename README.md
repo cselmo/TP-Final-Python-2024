@@ -24,5 +24,5 @@ python ./streamlit-app/src/app-terminal.py
 
 ### App Web
 ```
-streamlit run ./streamlit-app/app-web-py
+streamlit run ./streamlit-app/app-web.py
 ```
